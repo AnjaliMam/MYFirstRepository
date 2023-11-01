@@ -1,2 +1,4 @@
 KEYBOARD
 MOUSE
+pendrive
+printer
